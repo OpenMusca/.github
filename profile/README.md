@@ -1,3 +1,5 @@
+<p align="center"><img src="https://openmusca.github.io/assets/favicon.svg" width="120" alt="OpenMusca logo"></p>
+
 # OpenMusca
 
 **Open-source, local-only firmware for the PETKIT YumShare Dual-Hopper 2 (P592) pet feeder.**
@@ -37,3 +39,5 @@ OpenMusca is an independent community project. It is not affiliated with, author
 "PETKIT" and "YumShare" are trademarks of their owners and are used only to name the compatible hardware.
 Everything here is provided as is and used **at your own risk**. Full disclaimer, including the legal background for
 device owners in Germany and the EU (§ 903 BGB, §§ 69d, 69e UrhG, § 3 GeschGehG): https://openmusca.github.io/disclaimer/
+
+Logo based on "Fly" by Delapouite ([game-icons.net](https://game-icons.net/1x1/delapouite/fly.html)), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), modified.
